@@ -1,5 +1,6 @@
 - 🔭 I’m currently working on [Coffee Delivery](https://github.com/gustavocotalima/coffee-delivery)
 - 🌱 I’m currently learning **React.js and Unreal Engine**
+- - 📫 How to reach me **gustavolima@unifei.edu.br**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/gcL#8679) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavocotalima/) 
